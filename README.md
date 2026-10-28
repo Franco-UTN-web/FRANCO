@@ -2,4 +2,4 @@ FRANCO MONTOYA ADOLFO JULIANO
 ITIC-901M
 * ADD archivo RDN.txt
 * ADD Nuevo descuento de 25% COMPRA >= 20000
-*  
+* FIX descuento 15% COMPRA >= 10000
